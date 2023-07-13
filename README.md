@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 
 A comprehensive collection of Egyptian dishes, presented as a project within The Odin Project web development curriculum.
 
