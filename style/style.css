@@ -4,5 +4,19 @@
 }
 
 * {
-	font-family: "Computer Modern", sans-serif;
+	font-family: "Computer Modern", "Times New Roman" ,sans-serif;
+}
+
+h1, h3 {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.ul-list {
+	list-style: none;
 }
